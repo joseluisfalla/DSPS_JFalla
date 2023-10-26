@@ -1,0 +1,1 @@
+Chris and I worked on this one together. We collaborated in the later parts (the beginning we had mostly done by ourselves). Chris helped out a lot with the broken power law section, and we double checked with each other's work. Also for the likelihood ratios test.
