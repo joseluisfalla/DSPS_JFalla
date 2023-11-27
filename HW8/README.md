@@ -10,3 +10,4 @@ These next two figures are part of my research on a variational quantum algorith
 ## After Figure
 ![]('gl2vec_results_after.png')
 <img src='gl2vec_results_after.png' width='500'>
+<figcaption>test</figcaption>
