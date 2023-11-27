@@ -4,3 +4,7 @@ These next two figures are part of my research on a variational quantum algorith
 ## Before Figure
 ![]('gl2vec_results.png')
 <img src='gl2vec_results.png' width='500'>
+
+## After Figure
+![]('gl2vec_results(1)')
+<img src='gl2vec_results.png' width='500'>
