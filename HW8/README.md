@@ -2,10 +2,9 @@
 These next two figures are part of my research on a variational quantum algorithm, the quantum approximate optimization algorithm (QAOA), used to find approximate solutions to combinatorial optimization problems. Specifically, in this work, I use graph embedding techniques (machine learning, woo!) to determine whether the variational parameters associated to an optimal solution on one instance can be successfully transferred to another instance.
 
 ## Before Figure
-<figure>
-  ![]('gl2vec_results_before.png'){width='500'}
-  <figcaption>Test</figcaption>
-</figure>
+![]('gl2vec_results_before.png')
+<img src='gl2vec_results_before.png' width='500'>
+<figcaption>Figure 1. Performance of GL2Vec graph embedding at predicting good donor candidates for different types of graphs. The different marker symbols represent different graphs (random, regular, and Watts-Strogatz), while the different colors represent the "best" and "worst" predictions based on the distance of embedded vectors measured by their Euclidean distance.</figcaption>
 
 ## After Figure
 ![]('gl2vec_results_after.png')
