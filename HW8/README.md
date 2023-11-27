@@ -9,4 +9,7 @@ These next two figures are part of my research on a variational quantum algorith
 ## After Figure
 ![]('gl2vec_results_after.png')
 <img src='gl2vec_results_after.png' width='500'>
-<figcaption>test</figcaption>
+<figcaption>Transferability of optimal QAOA parameters with donor graphs chosen via GL2Vec embedding. Data in circles and crosses show shortest and furthest Euclidean distance in the embedded space, respectively. Different types of graphs are differentiated by color.</figcaption>
+
+## Changes
+Even though the changes I made to the original (before) figure are small, I do think they improved the figure significantly (and the before figure was actually in the manuscript). The change was with the labels: while graph types were labeled by marker shape and Euclidean distance by color in the first figure, in the second figure graph types are labeled by color and Euclidean distance by marker shape. The thing I appreciated the most was that in the second figure, the shortest Euclidean distance between embedded vectors (ie. good candidates) are shown in circles, while furthest Euclidean distances are shown in crosses, and that adds intuition, since we generally associated crosses with "bad".
